@@ -12,3 +12,5 @@ while k < indice:
     soma += k
 
 print(soma)
+
+# soma = 91
